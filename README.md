@@ -1,2 +1,1 @@
-# rayTracerCPP
-Ray Tracer in C++
+## Programming RayTracer from scratch in C++
